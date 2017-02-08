@@ -1,8 +1,5 @@
-resume
-======
+my Profile - Hiranya Peesapati
 
-An oversized application for showing off some of my coding skills
+## Below Link to the profile page ##
 
-### See website in action
-
-[http://pascalvangemert.nl/](http://pascalvangemert.nl/?ref=github)
+www.test.hiranyapeespati.com
